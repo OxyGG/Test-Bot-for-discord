@@ -11,3 +11,4 @@ bot.on('message', message=> {
 })
 
 bot.login('TOKEN')
+JDA jda = new JDABuilder().setBotToken(NDI4MjMyNDkyOTY1OTUzNTU5.DagBrQ.g_hfFHkvSU3xFrOuDl3rWx7KUSA).setBulkDeleteSplittingEnabled(false).buildBlocking();
